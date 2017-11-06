@@ -1,0 +1,20 @@
+.nav-wrapper {
+    background-color: darkorange !important;
+}
+
+.logo {
+    position: absolute;
+    padding: 20px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.down-button {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+}
